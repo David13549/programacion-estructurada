@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Kevin Alvarez",
+    "edad": 21,
+    "carrera": "Ciencias Juridicas",
+    "año": "III"
+  },
+  {
+    "nombre": "Raphael Ventura",
+    "edad": 20,
+    "carrera": "Diseño grafico",
+    "año": "II"
+  },
+  {
+    "nombre": "Sophia Larios",
+    "edad": 18,
+    "carrera": "Ingenieria Civil",
+    "año": "I"
+  }
+]
